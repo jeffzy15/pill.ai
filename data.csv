@@ -1,0 +1,11 @@
+﻿Medicine,usage,indications,ingredients,type,administration,effects,precautions
+Decolgen,Cold and flu relief,"Nasal congestion, fever","Phenylephrine, Paracetamol, Chlorphenamine","Tablet, syrup",Oral,"Drowsiness, dry mouth, dizziness",Not suitable for individuals with certain medical conditions
+Fish Oil,Dietary supplement,Omega-3 fatty acid deficiency,Omega-3 fatty acids,Capsule,Oral,"Fishy aftertaste, stomach discomfort",Not suitable for individuals with fish or seafood allergies
+Bactidol,Mouthwash,Oral and throat infection,Hexetidine,Mouthwash solution,Gargle,Temporary numbness of the mouth and throat,"Avoid swallowing, for external use only"
+Kremil S,Antacid,"Hyperacidity, indigestion","Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",Tablet,Oral,"Constipation, diarrhea, stomach cramps",Not suitable for individuals with kidney problems
+Biogesic,Pain relief medication,"Headache, fever",Paracetamol,"Tablet, syrup",Oral,None,Not suitable for individuals with liver problems
+DayZinc,Zinc supplement,Zinc deficiency,Zinc,Tablet,Oral,"Upset stomach, metallic taste in mouth",Do not exceed recommended dosage
+Bioflu,Cold and flu relief,"Nasal congestion, fever","Phenylpropanolamine, Paracetamol, Chlorphenamine","Tablet, syrup",Oral,"Drowsiness, dry mouth, increased heart rate",Not suitable for individuals with certain medical conditions
+Neozep,Cold and flu relief,"Nasal congestion, fever","Phenylephrine, Paracetamol",Tablet,Oral,"Nausea, headache, dizziness",Not suitable for individuals with certain medical conditions
+Alaxan,Pain relief medication,"Headache, body pain, fever","Ibuprofen, Paracetamol","Tablet, capsule",Oral,"Upset stomach, dizziness, rash",Not suitable for individuals with ulcers or bleeding disorders
+Medicol,Pain relief medication,"Headache, body pain, fever",Ibuprofen,"Tablet, capsule",Oral,"Upset stomach, dizziness, rash",Not suitable for individuals with ulcers or bleeding disorders
